@@ -1,0 +1,25 @@
+C:\Users\buste\source\repos\original - Copy\bin\Debug\Draw.exe.config
+C:\Users\buste\source\repos\original - Copy\bin\Debug\Draw.exe
+C:\Users\buste\source\repos\original - Copy\bin\Debug\Draw.pdb
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.MainForm.resources
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.exe
+C:\Users\buste\source\repos\original - Copy\obj\Debug\Draw.pdb
+C:\Users\buste\source\2001261021\CourseProject\bin\Debug\Draw.exe.config
+C:\Users\buste\source\2001261021\CourseProject\bin\Debug\Draw.exe
+C:\Users\buste\source\2001261021\CourseProject\bin\Debug\Draw.pdb
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.MainForm.resources
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.exe
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.pdb
+C:\Users\buste\source\2001261021\CourseProject\obj\Debug\Draw.src.GUI.AboutInfo.resources
